@@ -8,7 +8,7 @@ p2 = [] # result
 
 index = int(random.random() * N)
 mw = max(w) #max weight
-beta = #probability
+beta = 0.0#probability
 
 for i in range(N): #|| len(p)
 	beta += random.random() * 2 * mw
